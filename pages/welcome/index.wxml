@@ -1,0 +1,7 @@
+<view>
+  <button bindtap='gotoOldMusice' type='primary'>旧版录音与播放声音</button>
+</view>
+
+<view>
+  <button bindtap='gotoNewMusice' type='primary'>新版录音与播放声音</button>
+</view>

@@ -1,0 +1,4 @@
+/* pages/newMusic/index.wxss */
+view{
+  padding: 15px;
+}
